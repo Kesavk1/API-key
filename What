@@ -1,0 +1,49 @@
+WHat is API?
+API is known as application programming interface, it works as an intermediator between two application to share information.
+
+QUestions we can ask?
+How does weather apps get everyday weather update? 
+
+API states the rules to communicates with the server to retrieve information , Similiar to how we cant just print ourselve a passport and follow rules
+to fill application, pay fees and wait for delivery
+
+Analogy for API system
+In a restaurant, waiter can give menu, take orders, serve food and take payments, thus shielding and avoiding all behind the scenes.
+Here waiter is API and you as customer get your service from system(Kitchen) using API
+
+Purposes of API
+*Access data
+Multiple apps and services can use the data
+
+*Hide complexity
+Allowing devices to use in-app features to use instanly without worrying about its backend using API
+ For instance, Gps feature on mobile can be used on specific app using pre-defined GPS API, rather than writing code for them
+ Also, operating systems on mobile, or computer provide API for WIFI, GPS, Graphic card etc, so developers can use them 
+
+*Extend functionality
+API's can be used to add more function to pre-existing docks, widgets
+It can extends features of AI assitant such as google, alexa
+ For example,  API can extend or new functionlity to alexa switch to change colours or switch things
+
+*Sccurity
+They can act as security and allow or block permission to access data
+Devices usually ask once for permission and save the setting forever, so its important to change or update settings manually when its not needed
+
+The API key is an unique ID used to identify the application, it will be used by the systemm to keep the records of endpoints and users.
+
+Different System will have different API to communicate with the endpoints to get information
+
+Usually API will have documentation to find the input requirments and communication points.
+
+Example, A news API gathers news and delivers in format like json, xml etc. 
+ This format can be easily parse, extract information to use
+
+
+SDK- Software developement kit is codes used to work with API, some devices provides pre defined SDK to work with the API
+
+* There are various API's available in the market
+
+https://newsapi.org/
+
+Above is basic, Need more work on this..
+
